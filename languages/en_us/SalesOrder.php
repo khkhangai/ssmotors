@@ -8,23 +8,23 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'SalesOrder'    =>  'Sales Orders',
+	'SalesOrder'    =>  'Борлуулалт',
     //DetailView Actions
-	'SINGLE_SalesOrder' => 'Sales Order',
+	'SINGLE_SalesOrder' => 'Борлуулалт',
 	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
     'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Add Sales Order',
-	'LBL_RECORDS_LIST' => 'Sales Order List',
+	'LBL_ADD_RECORD' => 'Борлуулалт эхлүүлэх',
+	'LBL_RECORDS_LIST' => 'Нийт борлуулалтууд',
 
 	// Blocks
-	'LBL_SO_INFORMATION' => 'Sales Order Details',
+	'LBL_SO_INFORMATION' => 'Борлуулалтын дэлгэрэнгүй',
 
 	//Field labels
-	'SalesOrder No'=>'Sales Order Number',
+	'SalesOrder No'=>'Дугаар',
 	'Quote Name'=>'Quote Name',
-	'Customer No' => 'Customer No',
+	'Customer No' => 'Харилцагч',
 	'Requisition No'=>'Requisition No',
 	'Tracking Number'=>'Tracking Number',
 	'Sales Commission' => 'Sales Commission',
@@ -40,7 +40,7 @@ $languageStrings = array(
 
 	//Added for existing Picklist Entries
 
-	'Sub Total'=>'Sub Total',
+	'Sub Total'=>'Нийт',
 	'AutoCreated'=>'Auto Created',
 	'Sent'=>'Sent',
 	'Credit Invoice'=>'Credit Invoice',
